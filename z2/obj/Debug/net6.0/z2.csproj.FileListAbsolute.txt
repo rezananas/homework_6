@@ -1,0 +1,15 @@
+C:\Users\Anastasia\Downloads\Praktika\C#\dz_6\z2\obj\Debug\net6.0\z2.csproj.AssemblyReference.cache
+C:\Users\Anastasia\Downloads\Praktika\C#\dz_6\z2\obj\Debug\net6.0\z2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anastasia\Downloads\Praktika\C#\dz_6\z2\obj\Debug\net6.0\z2.AssemblyInfoInputs.cache
+C:\Users\Anastasia\Downloads\Praktika\C#\dz_6\z2\obj\Debug\net6.0\z2.AssemblyInfo.cs
+C:\Users\Anastasia\Downloads\Praktika\C#\dz_6\z2\obj\Debug\net6.0\z2.csproj.CoreCompileInputs.cache
+C:\Users\Anastasia\Downloads\Praktika\C#\dz_6\z2\bin\Debug\net6.0\z2.exe
+C:\Users\Anastasia\Downloads\Praktika\C#\dz_6\z2\bin\Debug\net6.0\z2.deps.json
+C:\Users\Anastasia\Downloads\Praktika\C#\dz_6\z2\bin\Debug\net6.0\z2.runtimeconfig.json
+C:\Users\Anastasia\Downloads\Praktika\C#\dz_6\z2\bin\Debug\net6.0\z2.dll
+C:\Users\Anastasia\Downloads\Praktika\C#\dz_6\z2\bin\Debug\net6.0\z2.pdb
+C:\Users\Anastasia\Downloads\Praktika\C#\dz_6\z2\obj\Debug\net6.0\z2.dll
+C:\Users\Anastasia\Downloads\Praktika\C#\dz_6\z2\obj\Debug\net6.0\refint\z2.dll
+C:\Users\Anastasia\Downloads\Praktika\C#\dz_6\z2\obj\Debug\net6.0\z2.pdb
+C:\Users\Anastasia\Downloads\Praktika\C#\dz_6\z2\obj\Debug\net6.0\z2.genruntimeconfig.cache
+C:\Users\Anastasia\Downloads\Praktika\C#\dz_6\z2\obj\Debug\net6.0\ref\z2.dll
